@@ -1,0 +1,5 @@
+15:40:57 running cycle_execs.php
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in C:\_majordomo\htdocs\lib\log4php\LoggerLoggingEvent.php on line 162
+14:42:29 running cycle_execs.php
+14:42:57 running cycle_execs.php

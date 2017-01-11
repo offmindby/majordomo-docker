@@ -1,0 +1,8 @@
+15:40:57 running cycle_states.php
+System state changed to yellow
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 24 bytes) in C:\_majordomo\htdocs\lib\log4php\LoggerLoggingEvent.php on line 162
+14:42:29 running cycle_states.php
+System state changed to yellow
+14:43:00 running cycle_states.php
+System state changed to green
